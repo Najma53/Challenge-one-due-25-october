@@ -26,3 +26,6 @@ Notes (Navigate to <your-github-username.github.io/your-repository-name> and you
 4. Certain things were not linked so that was fixed as well.
 5. Layout was changed a bit to fit all in one page.
 6. Git add -A, Git commit -m" description of changes" and git push origin main command were used to link my changes from my laptop to my repository on github. 
+## Conclusion
+1. Project can be opened using url 
+2. Still under construction
